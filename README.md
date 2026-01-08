@@ -1,28 +1,42 @@
-## 💱 Conversor de Moeda
+## Conversor de Moedas 💱
 
-Este projeto simples de conversor de moeda foi desenvolvido de forma independente com a iniciativa de aprender mais a linguagem JavaScript.
-#
-### 🎓 Sobre o Projeto
+Este é um **conversor de moedas** desenvolvido em **HTML, CSS e JavaScript**, com execução direta no navegador.  
+O projeto foi desenvolvido como **projeto pessoal**, com foco na prática de lógica de programação e manipulação do DOM.
 
-* Conversão de dólar para real
-* Conversão de real para dólar
-* Interface simples e fácil de usar
+---
 
-#
-### 🛠️ Tecnologias usadas
+## Funcionalidades 🛠️
 
-* HTML
-* CSS
-* JavaScript
+* Conversão de dólar para real;
+* Conversão de real para dólar;
+* Interface simples, intuitiva e fácil de usar;
+* Execução direta no navegador, sem necessidade de instalação.
 
-#
-▶️ Como usar:
+---
 
-* Baixe ou clone este repositório
-* Abra o arquivo index.html no navegador
-* Digite o valor e escolha a conversão
-* Não precisa instalar nada. Roda direto no navegador.
+## Tecnologias e Conceitos 💻
 
-### 📱 Contato
+* **HTML** – Estrutura da aplicação;
+* **CSS** – Estilização e layout da interface;
+* **JavaScript** – Lógica de programação e manipulação do DOM;
+* **Eventos** – Interação do usuário com a interface.
 
- [leonardonascferreira@gmail.com](mailto:leonardonascferreira@gmail.com)
+---
+
+## Como usar ▶️
+
+1. Clone este repositório:
+
+```bash
+git clone <URL_DO_REPOSITORIO>
+```
+
+2. Abra o arquivo index.html em qualquer navegador:
+```bash
+HTML index.html
+```
+
+3. Informe o valor e escolha o tipo de conversão.
+
+ ## Contato 📧
+- [Meu E-mail](mailto:leonardonascferreira@gmail.com)
