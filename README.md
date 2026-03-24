@@ -39,4 +39,6 @@ HTML index.html
 3. Informe o valor e escolha o tipo de conversão.
 
  ## Contato 📧
+ 
+- [LinkedIn](https://linkedin.com/in/leonardonascferreira)
 - [Meu E-mail](mailto:leonardonascferreira@gmail.com)
